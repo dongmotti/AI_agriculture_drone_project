@@ -5,3 +5,4 @@ There are codes that detect and analyze using color and codes that detect and an
 Examples of pests and diseases were anthracnose and blue mold.
 
 Additional examples of each main code and completed version have been provided. We've also linked how to use tello SDK and where to download it, so feel free to use it according to your needs.
+https://github.com/dji-sdk/Tello-Python
